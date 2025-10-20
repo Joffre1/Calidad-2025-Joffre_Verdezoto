@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:America/Bogota
+LAST-MODIFIED:20250410T142247Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/Bogota
+X-LIC-LOCATION:America/Bogota
+BEGIN:STANDARD
+TZNAME:-05
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20251020T191604Z
+DTSTART;TZID=America/Bogota:20250929T140000
+DTEND;TZID=America/Bogota:20250929T170000
+SUMMARY:ASEGURAMIENTO DE LA CALIDAD DEL SOFTWARE
+UID:EVENT8KQdWwq1S4COFCGuJLc5SQ@zoom.us
+DESCRIPTION:UNIVERSIDAD INTERNACIONAL SEK\n\nPatricio Alarcón le está inv
+ itando a una reunión de Zoom programada.\n\nUnirse a la reunión Zoom\nht
+ tps://uisek-edu-ec.zoom.us/j/99242147779?pwd=o86lCwHteE9z8eo3qlzFB9XYBiA
+ fdv.1\n\nID de reunión: 992 4214 7779\nContraseña: 766338\n\nConexión ví
+ a telefónica\nLlamar al número 096 284 2117\nDigitar el ID de la reunión
+  + # : 992 4214 7779\nDigitar el ID de participante + # (Si no lo tiene 
+ presione solo #)\nDigitar la contraseña de la reunión + #:  766338\n\n\n
+ \nEncuentre su número local: https://uisek-edu-ec.zoom.us/u/acUba3j9sk\n
+ \nUnirse mediante SIP\n99242147779@zoomcrc.com\n\nUnirse mediante H.323\
+ n144.195.19.161 (EE. UU. oeste)\n206.247.11.121 (EE. UU. este)\n115.114.
+ 131.7 (Mumbay\n India)\n115.114.115.7 (Hyderabad\n India)\n159.124.15.19
+ 1 (Ámsterdam Países Bajos)\n159.124.47.249 (Alemania)\n159.124.104.213 (
+ Sídney\n Australia)\n159.124.74.212 (Melbourne\n Australia)\n170.114.180
+ .219 (Singapur)\n64.211.144.160 (Brasil)\n159.124.132.243 (México)\n159.
+ 124.168.213 (Toronto\n Canadá)\n159.124.196.25 (Vancouver\n Canadá)\n170
+ .114.194.163 (Tokio\n Japón)\n147.124.100.25 (Osaka\n Japón)\nContraseña
+ : 766338\nID de reunión: 992 4214 7779\n
+TZID:America/Bogota
+LOCATION:https://uisek-edu-ec.zoom.us/j/99242147779?pwd=o86lCwHteE9z8eo3q
+ lzFB9XYBiAfdv.1
+RRULE:FREQ=WEEKLY;COUNT=18;INTERVAL=1;BYDAY=MO
+EXDATE;TZID=America/Bogota:20251229T140000,20251222T140000
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
